@@ -1,0 +1,54 @@
+﻿# Prerequisites
+*.d
+*~
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+#*.lib
+*.a
+*.la
+*.lo
+*.HX1
+*.MD1
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+
+*.BDL
+*.brk
+*.HDL
+*.HEX
+*.map
+*.org
+*.rom
+# *.bin
+*.bmk
+*.DBG
+
+*.SchDocPreview
+*.PcbDocPreview
+
