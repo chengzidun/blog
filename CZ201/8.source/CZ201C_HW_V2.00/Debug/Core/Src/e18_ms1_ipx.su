@@ -1,0 +1,2 @@
+e18_ms1_ipx.c:16:9:e18_ms1_ipx_init	80	static
+e18_ms1_ipx.c:81:6:e18_ms1_ipx_protocol_handle	40	static

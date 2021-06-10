@@ -1,0 +1,7 @@
+squeue.c:9:6:init_queue	16	static
+squeue.c:25:9:enqueue	12	static
+squeue.c:41:9:dequeue	0	static
+squeue.c:58:9:get	16	static
+squeue.c:74:7:length	0	static
+squeue.c:84:6:clear_queue	8	static
+squeue.c:98:6:match	20	static

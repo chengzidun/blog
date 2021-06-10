@@ -1,0 +1,3 @@
+key.c:18:6:load_key_tbl	24	static
+key.c:85:6:key_scan	16	static
+key.c:173:6:key_handler	32	static

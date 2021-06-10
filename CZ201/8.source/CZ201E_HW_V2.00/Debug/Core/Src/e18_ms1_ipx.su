@@ -1,0 +1,4 @@
+e18_ms1_ipx.c:20:9:e18_ms1_ipx_init	80	static
+e18_ms1_ipx.c:90:6:e18_ms1_ipx_send_overtime_cnt	12	static
+e18_ms1_ipx.c:105:6:e18_ms1_ipx_overtime_alarm	16	static
+e18_ms1_ipx.c:121:6:e18_ms1_ipx_protocol_handle	80	static

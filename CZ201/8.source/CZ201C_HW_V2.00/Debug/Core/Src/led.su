@@ -1,0 +1,5 @@
+led.c:22:9:led_init	0	static
+led.c:42:6:led_blink	8	static
+led.c:69:6:led_blink_cnt	8	static
+led.c:110:6:led_blink_clear	8	static
+led.c:133:9:led_blink_get_state	0	static

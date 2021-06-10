@@ -1,0 +1,5 @@
+beep.c:16:9:beep_init	0	static
+beep.c:30:6:beep_oscillation	8	static
+beep.c:42:6:beep_oscillation_cnt	8	static
+beep.c:64:6:beep_oscillation_clear	8	static
+beep.c:74:9:beep_oscillation_get_state	0	static

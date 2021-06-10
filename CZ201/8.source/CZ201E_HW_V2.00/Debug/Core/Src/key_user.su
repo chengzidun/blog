@@ -1,0 +1,10 @@
+key_user.c:128:13:key_light_retrig_cb	0	static
+key_user.c:31:13:key_lock_press_cb	40	static
+key_user.c:82:13:key_light_press_cb	40	static
+key_user.c:123:13:key_light_release_cb	0	static
+key_user.c:66:13:key_lock_long_cb	0	static
+key_user.c:71:13:key_lock_release_cb	0	static
+key_user.c:76:13:key_lock_retrig_cb	0	static
+key_user.c:117:13:key_light_long_cb	0	static
+key_user.c:18:6:key_gpio_config	0	static
+key_user.c:23:6:key_init	8	static

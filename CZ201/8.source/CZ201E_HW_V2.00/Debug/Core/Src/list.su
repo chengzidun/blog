@@ -1,0 +1,6 @@
+list.c:3:6:list_init	0	static
+list.c:20:6:list_insert_front	0	static
+list.c:24:6:list_insert_tail	0	static
+list.c:28:9:list_remove	0	static
+list.c:43:9:list_empty	0	static
+list.c:47:7:list_length	0	static

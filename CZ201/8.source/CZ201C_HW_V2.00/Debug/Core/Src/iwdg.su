@@ -1,0 +1,2 @@
+iwdg.c:30:6:MX_IWDG_Init	8	static
+iwdg.c:44:6:iwdg_feed	8	static

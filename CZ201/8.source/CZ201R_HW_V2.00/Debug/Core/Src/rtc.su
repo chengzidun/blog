@@ -1,0 +1,10 @@
+rtc.c:34:9:rtc_init	8	static
+rtc.c:68:9:rtc_set_date	24	static
+rtc.c:80:9:rtc_get_date	24	static
+rtc.c:94:9:rtc_set_time	40	static
+rtc.c:109:9:rtc_get_time	32	static
+rtc.c:129:9:rtc_set_time_date	56	static
+rtc.c:137:9:rtc_get_time_date	40	static
+rtc.c:145:6:rtc_printf_string	56	static
+rtc.c:152:6:HAL_RTC_MspInit	0	static
+rtc.c:168:6:HAL_RTC_MspDeInit	0	static

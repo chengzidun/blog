@@ -1,0 +1,7 @@
+softtimer.c:8:6:timer_init	8	static
+softtimer.c:20:6:timer_arm	8	static
+softtimer.c:36:6:timer_disarm	8	static
+softtimer.c:46:6:timer_start	0	static
+softtimer.c:55:6:timer_stop	0	static
+softtimer.c:65:6:timer_exec	16	static
+softtimer.c:87:6:timer_service	32	static

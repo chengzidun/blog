@@ -1,0 +1,5 @@
+lock.c:13:9:lock_init	0	static
+lock.c:21:6:lock_unlocking	16	static
+lock.c:31:6:lock_unlocking_time_cnt	16	static
+lock.c:46:6:lock_unlocking_clear	8	static
+lock.c:53:9:lock_get_state	0	static

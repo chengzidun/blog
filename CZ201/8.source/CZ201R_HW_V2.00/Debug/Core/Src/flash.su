@@ -1,0 +1,8 @@
+flash.c:11:9:flash_init	0	static
+flash.c:22:9:flash_write_page	1048	static
+flash.c:55:9:flash_write_no_check	24	static
+flash.c:91:9:flash_write_data	80	static
+flash.c:159:9:flash_read_data	20	static
+flash.c:180:9:flash_erase_page	32	static
+flash.c:209:10:get_page	0	static
+flash.c:221:6:FLASH_IRQHandler	8	static

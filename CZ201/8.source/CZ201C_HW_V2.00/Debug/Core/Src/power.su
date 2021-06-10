@@ -1,0 +1,3 @@
+power.c:13:9:power_init	8	static
+power.c:21:9:power_get_ac_state	0	static
+power.c:26:6:power_ac_state_cnt	16	static
